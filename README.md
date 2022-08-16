@@ -1,8 +1,8 @@
-- 👋 ola @felipebakkk
-
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 salve eu sou o @felipebakkk
+-have
+-after
+- how
+- 📫 
 
 <!---
 felipebakkk/felipebakkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
